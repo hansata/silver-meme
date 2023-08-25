@@ -4,7 +4,7 @@ A simple diary for the web.
 
 ## ⚠️ Work in progress ⚠️
 
-This project is still in development. You can use it, but the frontend sucks (especially on mobile). Furthermore, the backend will get a few changes in the future. If you are interested in the current state, you can look at the [development branch](https://github.com/dodaucy/diary/tree/develop).
+This project is still in development. You can use it, but the frontend sucks (especially on mobile). Furthermore, the backend will get a few changes in the future. If you are interested in the current state, you can look at the [development branch](https://github.com/hansata/silver-meme/tree/develop).
 
 ## Setup
 
@@ -52,10 +52,10 @@ sudo systemctl start docker
 sudo systemctl enable docker
 ```
 
-#### 3. Download [docker-compose.yml](https://raw.githubusercontent.com/dodaucy/diary/master/docker-compose.yml)
+#### 3. Download [docker-compose.yml](https://raw.githubusercontent.com/hansata/silver-meme/master/docker-compose.yml)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/dodaucy/diary/master/docker-compose.yml -o docker-compose.yml
+curl -fsSL https://raw.githubusercontent.com/hansata/silver-meme/master/docker-compose.yml -o docker-compose.yml
 ```
 
 #### 4. Configure
@@ -80,7 +80,7 @@ Follow steps 1 and 2 from the [Docker Compose](#docker-compose-recommended) sect
 #### 2. Clone and build
 
 ```bash
-git clone https://github.com/dodaucy/diary.git
+git clone https://github.com/hansata/silver-meme.git
 
 cd diary
 
@@ -115,7 +115,7 @@ sudo apt install python3 python3-pip python3-venv git -y
 #### 2. Clone and build
 
 ```bash
-git clone https://github.com/dodaucy/diary.git
+git clone https://github.com/hansata/silver-meme.git
 
 cd diary
 
